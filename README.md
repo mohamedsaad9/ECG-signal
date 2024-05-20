@@ -7,6 +7,14 @@ This dataset has been used in exploring heartbeat classification using deep neur
 - *Data Source*: Physionet's PTB Diagnostic Database
 ## Data Files
 This dataset consists of a series of CSV files. Each of these CSV files contain a matrix, with each row representing an example in that portion of the dataset. The final element of each row denotes the class to which that example belongs.
+## Datasets
+The data used in this project comes from the following sources:
+
+1. *ptbdb_abnormal.csv*
+    - *Source:* [(https://www.kaggle.com/datasets/shayanfazeli/heartbeat?select=ptbdb_abnormal.csv)
+
+2. *ptbdb_normal.csv*
+    - *Source:* [https://www.kaggle.com/datasets/shayanfazeli/heartbeat?select=ptbdb_normal.csv)
 
 ## Features
 
